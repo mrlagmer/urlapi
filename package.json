@@ -1,0 +1,24 @@
+{
+  "name": "urlapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-lambda": "^2.0.1"
+  },
+  "scripts": {
+    "dev": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlagmer/urlapi.git"
+  },
+  "author": "Stuart Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlagmer/urlapi/issues"
+  },
+  "homepage": "https://github.com/mrlagmer/urlapi#readme"
+}
